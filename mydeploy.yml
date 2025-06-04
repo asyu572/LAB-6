@@ -8,4 +8,4 @@
     become_method: su
     copy:
           src: "/var/lib/jenkins/workspace/ff/target/my-app-1.0-SNAPSHOT.jar"
-          dest: "/home/student/t.jar"
+          dest: "/home/aps/t.jar"
